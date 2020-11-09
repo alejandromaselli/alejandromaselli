@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 
 ## I'm a Junior Full-stack Web Developer
 
-- 🔭 I’m in my 6th semester of Computer Science
+- 🔭 I’m a 6th Semester Computer Science Student!
 - 🌱 You can find my work at my portfolio which is htps://portfolio.ingenieria.club
